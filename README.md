@@ -2,12 +2,12 @@
 
 Projeto desenvolvido para estudar e praticar HTML e CSS.
 
-## Acesse o projeto:
+## 🔗 Acesse o projeto:
 https://felipeinaciomartins.github.io/quiz-para-programadores/
 
 ## 💻 Tecnologias utilizadas:
 - HTML
 - CSS
 
-## Observação:
+## 📚 Observação:
 Este projeto foi baseado em um tutorial, com o objetivo de aprendizado.
